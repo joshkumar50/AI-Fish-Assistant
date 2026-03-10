@@ -35,7 +35,7 @@ Check out the app in action:
 
 ![App Demo](screenshots/demo.gif)
 
-**[Watch the full Demo on Google Drive](https://drive.google.com/file/d/1hxjl3ZeIGRxBX58F5ioBm8uSX6KHcl-s/view?usp=drivesdk)**
+**[Watch the full Demo on Google Drive](https://drive.google.com/file/d/1Bvpqu1US76WX7BwOAsRX0Y3Eiwrx3ia5/view?usp=drivesdk)**
 
 ---
 
