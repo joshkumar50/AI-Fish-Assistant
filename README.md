@@ -33,7 +33,7 @@ Built-in **Text-To-Speech** support in **Telugu** to help farmers who may strugg
 ## 📺 Demo
 Check out the app in action:
 
-![App Demo](screenshots/demo.gif)
+![App Demo](screenshots/demo_latest.gif)
 
 **[Watch the full Demo on Google Drive](https://drive.google.com/file/d/1Bvpqu1US76WX7BwOAsRX0Y3Eiwrx3ia5/view?usp=drivesdk)**
 
