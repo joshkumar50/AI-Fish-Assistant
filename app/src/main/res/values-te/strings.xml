@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic App Strings -->
+    <string name="app_name">మత్స్య మిత్ర</string>
+    <string name="take_photo">చేప ఫోటో తీయండి</string>
+    <string name="fish_image_description">తీసిన చేప ఫోటో ఇక్కడ కనిపిస్తుంది</string>
+    <string name="result_text">ఫలితం ఇక్కడ చూపబడుతుంది...</string>
+
+    <!-- Feeding Schedule Strings -->
+    <string name="feeding_schedule_title">రోజువారీ దాణా షెడ్యూల్</string>
+    <string name="hint_fish_type">చేప జాతి (ఉదా: రోహు, కట్ల)</string>
+    <string name="hint_feed_amount">దాణా మొత్తం (ఉదా: 200గ్రా)</string>
+    <string name="hint_feeding_time">దాణా సమయం (ఉదా: ఉదయం 8:00, సాయంత్రం 4:00)</string>
+    <string name="save_schedule">షెడ్యూల్‌ను సేవ్ చేయండి</string>
+    <string name="saved_schedule_display">ఇప్పటివరకు షెడ్యూల్ సేవ్ చేయబడలేదు.</string>
+    <string name="schedule_saved_success">షెడ్యూల్ సేవ్ చేయబడింది!</string>
+    <string name="view_feeding_schedule">దాణా షెడ్యూల్ చూడండి</string>
+    <string name="select_from_gallery">గ్యాలరీ నుండి ఎంచుకోండి</string>
+
+    <!-- Detailed Remedies -->
+    <string name="remedy_white_spot_detail">
+        తెల్ల మచ్చల వ్యాధి (ఇచ్) ఒక సాధారణ పరాన్నజీవి.\n\n
+        <b>నివారణ చర్యలు:</b>\n
+        1. నీటి ఉష్ణోగ్రతను నెమ్మదిగా 28-30°C కు పెంచండి.\n
+        2. ప్రతి లీటరు నీటికి 2-3 గ్రాముల అయోడిన్ లేని ఉప్పును కలపండి.\n
+        3. మెలకైట్ గ్రీన్ లేదా ఫార్మాలిన్ వంటి యాంటీ-పరాన్నజీవి మందులను వాడండి (ప్యాకేజీ సూచనలను అనుసరించండి).\n
+        4. క్రమం తప్పకుండా పాక్షిక నీటి మార్పులు చేయండి.
+    </string>
+    <string name="remedy_fin_rot_detail">
+        ఫిన్ రాట్ అనేది బాక్టీరియల్ ఇన్ఫెక్షన్, ఇది తరచుగా నాణ్యత లేని నీరు లేదా ఒత్తిడి వల్ల వస్తుంది.\n\n
+        <b>నివారణ చర్యలు:</b>\n
+        1. వెంటనే 25-50% నీటిని మార్చండి.\n
+        2. మీ నీటి ఫిల్టర్‌ను తనిఖీ చేసి శుభ్రం చేయండి.\n
+        3. ఆక్వాకల్చర్ సరఫరా దుకాణాలలో లభించే యాంటీబయాటిక్ మందులను వాడండి.\n
+        4. చేపలు రద్దీగా లేవని నిర్ధారించుకోండి.
+    </string>
+    <string name="remedy_healthy">ప్రత్యేక నివారణ అవసరం లేదు. చేప ఆరోగ్యంగా కనిపిస్తుంది. పర్యవేక్షణ కొనసాగించండి.</string>
+
+    <!-- Result Card and Error Messages -->
+    <string name="error_loading_labels">లేబుల్స్ లోడ్ చేయడంలో లోపం.</string>
+    <string name="error_loading_model">AI మోడల్ లోడ్ చేయడంలో లోపం.</string>
+    <string name="error_model_not_loaded">AI మోడల్ లోడ్ అవ్వలేదు.</string>
+    <string name="error_labels_not_loaded">లేబుల్స్ లోడ్ అవ్వలేదు. దయచేసి యాప్‌ని మళ్లీ ప్రారంభించండి.</string>
+    <string name="analyzing_image">విశ్లేషిస్తున్నాను...</string>
+    <string name="analysis_result">విశ్లేషణ ఫలితం</string>
+    <string name="result_label">గుర్తించినది: %1$s</string>
+    <string name="result_confidence">ఖచ్చితత్వం: %1$s</string>
+    <string name="result_health">ఆరోగ్యం: %1$s</string>
+    <string name="could_not_identify">గుర్తించలేకపోయాను.</string>
+    <string name="remedy">నివారణ:</string>
+    <string name="speak_remedy_description">Read remedy aloud</string>
+</resources>

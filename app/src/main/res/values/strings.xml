@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic App Strings -->
+    <string name="app_name">Matsya Mitra</string>
+    <string name="take_photo">Take Photo of Fish</string>
+    <string name="fish_image_description">Image of the captured fish will be displayed here</string>
+    <string name="result_text">Result will be shown here...</string>
+
+    <!-- Feeding Schedule Strings -->
+    <string name="feeding_schedule_title">Daily Feeding Schedule</string>
+    <string name="hint_fish_type">Fish Type (e.g., Rohu, Catla)</string>
+    <string name="hint_feed_amount">Feed Amount (e.g., 200g)</string>
+    <string name="hint_feeding_time">Feeding Time (e.g., 8:00 AM, 4:00 PM)</string>
+    <string name="save_schedule">Save Schedule</string>
+    <string name="saved_schedule_display">No schedule saved yet.</string>
+    <string name="schedule_saved_success">Schedule Saved!</string>
+    <string name="view_feeding_schedule">View Feeding Schedule</string>
+    <string name="select_from_gallery">Select from Gallery</string>
+
+    <!-- Detailed Remedies -->
+    <string name="remedy_white_spot_detail">
+        White Spot Disease (Ich) is a common parasite.\n\n
+        <b>Remedy Steps:</b>\n
+        1. Slowly raise water temperature to 28-30°C.\n
+        2. Add 2-3 grams of non-iodized salt per liter of water.\n
+        3. Use anti-parasite medications like Malachite Green or Formalin (follow package instructions).\n
+        4. Perform partial water changes regularly.
+    </string>
+    <string name="remedy_fin_rot_detail">
+        Fin Rot is a bacterial infection, often caused by poor water quality or stress.\n\n
+        <b>Remedy Steps:</b>\n
+        1. Immediately perform a 25-50% water change.\n
+        2. Check and clean your water filter.\n
+        3. Use a broad-spectrum antibiotic medication available at aquaculture supply stores.\n
+        4. Ensure fish are not overcrowded.
+    </string>
+    <string name="remedy_healthy">No specific remedy needed. The fish appears to be healthy. Continue monitoring.</string>
+
+    <!-- Result Card and Error Messages -->
+    <string name="error_loading_labels">Error loading labels from file.</string>
+    <string name="error_loading_model">Error loading AI model from file.</string>
+    <string name="error_model_not_loaded">AI model is not loaded.</string>
+    <string name="error_labels_not_loaded">Labels are not loaded. Please restart the app.</string>
+    <string name="analyzing_image">Analyzing image...</string>
+    <string name="analysis_result">Analysis Result</string>
+    <string name="result_label">Identified: %1$s</string>
+    <string name="result_confidence">Confidence: %1$s</string>
+    <string name="result_health">Health: %1$s</string>
+    <string name="could_not_identify">Could not identify.</string>
+    <string name="remedy">Remedy:</string>
+    <string name="speak_remedy_description">Read remedy aloud</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Custom App Colors -->
+    <color name="primary_green">#00695C</color> <!-- A deep teal/green -->
+    <color name="primary_dark_green">#004D40</color> <!-- A darker version for the status bar -->
+    <color name="accent_blue">#0288D1</color> <!-- A nice blue for accents -->
+    <color name="card_background">#F5F5F5</color> <!-- A light grey for card backgrounds -->
+</resources>
