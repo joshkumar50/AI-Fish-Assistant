@@ -28,6 +28,14 @@ Built-in **Text-To-Speech** support in **Telugu** to help farmers who may strugg
 
 ---
 
+---
+
+## 📺 Demo Video
+Check out the app in action:  
+**[Watch the Demo on Google Drive](https://drive.google.com/file/d/1hxjl3ZeIGRxBX58F5ioBm8uSX6KHcl-s/view?usp=drivesdk)**
+
+---
+
 ## 🛠 Tech Stack
 
 - **Languge**: Kotlin
@@ -40,7 +48,13 @@ Built-in **Text-To-Speech** support in **Telugu** to help farmers who may strugg
 ---
 
 ## 📸 Screenshots
-*(Coming soon - Add your app screenshots here!)*
+
+<p align="center">
+  <img src="screenshots/healthy_fish_analysis.png" width="300" />
+  <img src="screenshots/disease_analysis.png" width="300" />
+</p>
+
+*Left: Healthy Rohu identification. Right: White Spot Disease detection.*
 
 ---
 
