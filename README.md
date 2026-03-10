@@ -30,9 +30,12 @@ Built-in **Text-To-Speech** support in **Telugu** to help farmers who may strugg
 
 ---
 
-## 📺 Demo Video
-Check out the app in action:  
-**[Watch the Demo on Google Drive](https://drive.google.com/file/d/1hxjl3ZeIGRxBX58F5ioBm8uSX6KHcl-s/view?usp=drivesdk)**
+## 📺 Demo
+Check out the app in action:
+
+![App Demo](screenshots/demo.gif)
+
+**[Watch the full Demo on Google Drive](https://drive.google.com/file/d/1hxjl3ZeIGRxBX58F5ioBm8uSX6KHcl-s/view?usp=drivesdk)**
 
 ---
 
